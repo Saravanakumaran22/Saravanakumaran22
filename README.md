@@ -2,19 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Saravana!" alt="Typing SVG" />
 </h1>
 
-<h2 align="left">Hi 👋! I'm a DevOps Enthusiast based in Toronto, Canada 🇨🇦</h2>
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌱 Currently learning: Terraform | Kubernetes | GitHub Actions  
-- 🚀 Focused on: CI/CD, Cloud Automation, and Infrastructure as Code  
-- 📚 Student at Lambton College – DevOps for Cloud Computing  
-- 💼 Looking for a Co-op/Part-time role in DevOps or Cloud  
-- 📫 Reach me at: [saravanake22@gmail.com](mailto:saravanake22@gmail.com)
-
 ---
 
-### 💻 My Tech Stack
+### 💻 My skill
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
@@ -74,7 +64,6 @@
 
 ---
 
-### ✍️ Blog Posts (Optional - If you have any Medium/Dev.to)
 
 <!--
 <div align="center">
