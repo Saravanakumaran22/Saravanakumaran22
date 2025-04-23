@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Saravanakumaran+Eswaran!;DevOps+%7C+Cloud+%7C+Automation+Enthusiast;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Saravana!;DevOps+%7C+Cloud+%7C+Automation+Enthusiast;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <h2 align="left">Hi 👋! I'm a DevOps Enthusiast based in Toronto, Canada 🇨🇦</h2>
