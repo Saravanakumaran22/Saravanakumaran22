@@ -35,7 +35,6 @@
 ---
 
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -66,12 +65,3 @@
 ---
 
 
-<--
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts" />
-</div>
--->
-
----
-
-> 🎯 Let me know if you want help creating a **custom header banner** or **repo pin section**
